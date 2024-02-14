@@ -1,7 +1,5 @@
 const myName =()=>{
-    return "Logan";
+    return "Hello Logan";
 }
-
-console.log("Hello " + myName());
 
 export default myName;
